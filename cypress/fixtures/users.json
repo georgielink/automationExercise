@@ -1,0 +1,17 @@
+{
+  
+  "name": "testName",
+  "emailSignup": "georgielink001@gmail.com",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "emailLogin": "iamroot1010@gmail.com",
+  "password": "password",
+  "firstName": "firstGTest",
+  "lastName": "lastGTest",
+  "address": "addressGTest",
+  "state": "stateGTest",
+  "city": "cityGTest",
+  "zipcode": "12345678",
+  "mobileNumber": "091034565647"
+
+
+}
